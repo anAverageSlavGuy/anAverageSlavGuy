@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @anAverageSlavGuy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m a software developer who is passionate about creating simply open-source codes, to help other people in their daily work.
+<br>
+I'm minimalist and a lover of clean code and :fries:. 
+<br>
+I speak 3 languages: Italian, Russian and English.
+
+The quote that I really like is: 
+<i><b>"Simplicity is Complicated"</b></i> by Rob Pike
 
 <!---
 anAverageSlavGuy/anAverageSlavGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
