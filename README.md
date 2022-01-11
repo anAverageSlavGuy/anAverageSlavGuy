@@ -9,6 +9,7 @@ The quote that I really like is:
 
 Currently working/learning with:
 <br>
+
 [<img src="https://img.shields.io/badge/-Javascript-20232a?logo=javascript&logoColor=f7df1d&style=for-the-badge">](https://www.javascript.com/)
 [<img src="https://img.shields.io/badge/-ReactJS-20232a?logo=react&logoColor=61DAFB&style=for-the-badge">](https://it.reactjs.org/)
 [<img src="https://img.shields.io/badge/-Bootstrap-20232a?logo=bootstrap&logoColor=7952b3&style=for-the-badge">](https://getbootstrap.com/)
