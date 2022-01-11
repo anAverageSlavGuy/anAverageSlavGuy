@@ -1,6 +1,6 @@
 Hi, I’m a software developer who is passionate about creating simply open-source codes, to help other people in their daily work.
 <br>
-I'm minimalist and a lover of clean code and :fries:. 
+I'm minimalist, lover of clean code and :fries:. 
 <br>
 I speak 3 languages: Italian, Russian and English.
 
